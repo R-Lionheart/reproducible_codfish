@@ -1,5 +1,7 @@
 # Reproducible code, figures, and sh...tuff. cod-fi-sh!
 
+Thanks Will!
+
 I spent way too much time recreating old code and figures and trying to hack together everyone else's workflow, so I'm making this repo to collect those final products in a single spot instead of various other places. Ideally I'd like this to be a code library of sorts where others can go to see how I've made figures, performed analyses, or performed some bit of exceptional wizardry.
 
 There's one golden rule: reproducibility. If it breaks when I try to run it, it gets thrown out. I am tired of chasing down the original data, reformatting it so the code actually runs, debugging the output, and still ending up with a different result than the initial product. To this end, I outline below a template for individual folders within this repo that establish how and what to include.
